@@ -1,5 +1,5 @@
 # mypodip
-JavaScript that prints the IP of the node/server/pod where it runs.
+JavaScript/Express that prints the IP of the node/server/pod where it runs.
 Uses express, pug, ip modules.
 
 ```
@@ -8,5 +8,11 @@ node server.js
 ```
 
 Runs on port 3000, change line #18 in server.js for a different port.
-Test with curl localhost:3000 or from a browser http://ip_address:3000
+Test with 
+```
+curl localhost:3000 
+```
+
+Or from a browser http://<ip_address>:3000
+
 
