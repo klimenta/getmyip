@@ -1,4 +1,4 @@
-# mypodip
+# getmyip
 JavaScript/Express that prints the IP of the node/server/pod where it runs.
 Uses express, pug, ip modules.
 
