@@ -1,0 +1,20 @@
+{
+  "name": "getmyip",
+  "version": "0.0.1",
+  "description": "JavaScript/Express that prints the IP of the node/server/pod where it runs. Uses express, pug, ip modules.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klimenta/getmyip.git"
+  },
+  "author": "Kliment Andreev",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/klimenta/getmyip/issues"
+  },
+  "homepage": "https://github.com/klimenta/getmyip#readme"
+}
